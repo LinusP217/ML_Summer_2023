@@ -1,6 +1,7 @@
 # Summer 2023 Machine Learning Meetings
 
 <img align="left" src="https://pubs.acs.org/cms/10.1021/acs.chemrev.0c00749/asset/images/medium/cr0c00749_0012.gif" width="250" height="228" >
+
 ![alt text]([http://url/to/img.png](https://pubs.acs.org/cms/10.1021/acs.chemrev.0c00749/asset/images/medium/cr0c00749_0012.gif))
 
 
