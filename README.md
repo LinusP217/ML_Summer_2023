@@ -2,9 +2,6 @@
 
 <img align="left" src="https://pubs.acs.org/cms/10.1021/acs.chemrev.0c00749/asset/images/medium/cr0c00749_0012.gif" width="250" height="228" >
 
-![alt text]([http://url/to/img.png](https://pubs.acs.org/cms/10.1021/acs.chemrev.0c00749/asset/images/medium/cr0c00749_0012.gif))
-
-
 ---
 > "Artificial intelligence, deep learning, machine learning&mdash;whatever you're doing if you don't understand it&mdash;learn it. Because otherwise you're going to be a dinosaur within 3 years."
 >
