@@ -24,13 +24,13 @@ This repository contains the learning material, schedule, and zoom link used for
 ## Topic Ideas (please add to/modify)
 
  1. ML methods
-   1. SVD, PCA, regression classification, etc.
+     1. SVD, PCA, regression classification, etc.
  2. Chemical Datasets
  3. Existing ML-Chemistry Tools/Softwares
-  1. molSimplify (https://github.com/hjkgrp/molSimplify)
-  2. aenet (https://github.com/atomisticnet/aenet)
-  3. PES-Learn (https://github.com/CCQC/PES-Learn)
-  4. Python-based analysis: pandas, seaborn, rdkit, scikit-learn
+     1. molSimplify (https://github.com/hjkgrp/molSimplify)
+     2. aenet (https://github.com/atomisticnet/aenet)
+     3. PES-Learn (https://github.com/CCQC/PES-Learn)
+     4. Python-based analysis: pandas, seaborn, rdkit, scikit-learn
  5. Review Articles; https://pubs.acs.org/doi/full/10.1021/acs.chemrev.0c00749
  6. ...
 
