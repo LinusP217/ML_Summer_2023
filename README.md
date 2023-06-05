@@ -24,7 +24,7 @@ This repository contains the learning material, schedule, and zoom link used for
      4. Python-based analysis: pandas, seaborn, rdkit, scikit-learn
  4. ...
 
----
+
 ## Meeting Schedule
 
 [//]: # "OSU Spring 2023 end Jun. 16th -> Fall 2023 start Sep. 27th"
