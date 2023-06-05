@@ -43,7 +43,7 @@ Suggested Time:
 
 Date    | Topic | Material | Comment
 :---:   | :---: | :---:    | :---: 
-07/__/23|       |          |  
+07/__/23|   ML for DFT/TDDFT calculation time predictions    | paper:           |  
 07/__/23|       |          |  
 08/__/23|       |          |  
 08/__/23|       |          |
