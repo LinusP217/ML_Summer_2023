@@ -15,6 +15,7 @@ This repository contains the learning material, schedule, and zoom link used for
 <br>
 
 ## Topic Ideas (please add to/modify)
+
  1. ML methods
    1. SVD, PCA, regression classification, etc.
  2. Chemical Datasets
