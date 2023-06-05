@@ -14,6 +14,13 @@ This repository contains the learning material, schedule, and zoom link used for
 <br>
 <br>
 
+1. First item
+2. Second item
+3. Third item
+    1. Indented item
+    2. Indented item
+4. Fourth item
+
 ## Topic Ideas (please add to/modify)
 
  1. ML methods
