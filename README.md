@@ -27,14 +27,9 @@ This repository contains the learning material, schedule, and zoom link used for
 ---
 ## Meeting Schedule
 
-[//]: # "OSU Spring 2023 end Jun. 16th -> Fall 2023 start Sep. 27th
-
-14 summer weeks 
-
-When2meet availability link:  
-https://www.when2meet.com/?20211543-yiXqv
-
-"
+[//]: # "OSU Spring 2023 end Jun. 16th -> Fall 2023 start Sep. 27th"
+[//]: # "14 summer weeks"
+[//]: # "https://www.when2meet.com/?20211543-yiXqv"
 
 **Zoom link:** 
 #########
@@ -46,11 +41,8 @@ Suggested Time:
 
 Date    | Topic | Material | Comment
 :---:   | :---: | :---:    | :---: 
-06/__/23|       |          | 
 07/__/23|       |          |  
 07/__/23|       |          |  
 08/__/23|       |          |  
 08/__/23|       |          |
-09/__/23|       |          |  
-
 ---
