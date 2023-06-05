@@ -1,6 +1,6 @@
 # Summer 2023 Machine Learning Meetings
 
-<img align="left" src="https://pubs.acs.org/cms/10.1021/acs.chemrev.0c00749/asset/images/medium/cr0c00749_0012.gif" width="250" height="228" >
+<img align="left" src="https://github.com/LinusP217/ML_Summer_2023/blob/main/excited_state_ML.jpeg" width="250" height="228" >
 
 ---
 > "Artificial intelligence, deep learning, machine learning&mdash;whatever you're doing if you don't understand it&mdash;learn it. Because otherwise you're going to be a dinosaur within 3 years."
