@@ -16,7 +16,7 @@ This repository contains the learning material, schedule, and zoom link used for
 
 ## Topic Ideas (please add to/modify)
  1. ML methods
-  1. SVD, PCA, regression classification, etc.
+   1. SVD, PCA, regression classification, etc.
  2. Chemical Datasets
  3. Existing ML-Chemistry Tools/Softwares
   1. molSimplify (https://github.com/hjkgrp/molSimplify)
