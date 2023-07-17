@@ -5,7 +5,7 @@
 ---
 > "Artificial intelligence, deep learning, machine learning&mdash;whatever you're doing if you don't understand it&mdash;learn it. Because otherwise you're going to be a dinosaur within 3 years."
 >
-> \- Mark Cuban
+> \- **Mark Cuban**
 ---
 
 This repository contains the learning material, schedule, and zoom link used for the summer 2023 meetings applying Machine Learning methods to computational spectroscopy. (drawing from 'Machine Learning for Electronically Excited States of Molecules'; doi: [10.1021/acs.chemrev.0c00749](https://pubs.acs.org/doi/10.1021/acs.chemrev.0c00749).) 
