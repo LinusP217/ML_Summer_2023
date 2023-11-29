@@ -8,7 +8,7 @@
 > \- **Mark Cuban**
 ---
 
-This repository contains the learning material, schedule, and zoom link used for the summer 2023 meetings applying Machine Learning methods to computational spectroscopy. (drawing from 'Machine Learning for Electronically Excited States of Molecules'; doi: [10.1021/acs.chemrev.0c00749](https://pubs.acs.org/doi/10.1021/acs.chemrev.0c00749).) Machine learning methods include SVD and PCA.
+This repository contains the learning material, schedule, and zoom link used for the summer 2023 meetings applying Machine Learning methods to computational spectroscopy. (drawing from 'Machine Learning for Electronically Excited States of Molecules'; doi: [10.1021/acs.chemrev.0c00749](https://pubs.acs.org/doi/10.1021/acs.chemrev.0c00749).) Machine learning methods include SVD, PCA, and random forest.
 <br>
 <br>
 
